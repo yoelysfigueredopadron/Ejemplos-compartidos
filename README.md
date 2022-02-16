@@ -1,2 +1,2 @@
 # Ejemplos-compartidos
-En este repositorio se compartirá ejemplo para estudiantes y amigos
+En este repositorio se compartirá ejemplos para estudiantes y amigos
