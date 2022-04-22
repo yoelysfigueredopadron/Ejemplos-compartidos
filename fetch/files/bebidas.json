@@ -1,0 +1,250 @@
+[
+    {
+        "id": 1,
+        "titulo": "Agua Pellegrino",
+        "precioReal": 800,
+        "precioRebajado": 720,
+        "img": "agua-pellegrino.jpg",
+        "dataId": "B1"
+    },
+    {
+        "id": 2,
+        "titulo": "Agua sin gas Bonaqua",
+        "precioReal": 500,
+        "precioRebajado": 450,
+        "img": "agua-bonagua.jpg",
+        "dataId": "B2"
+    },
+    {
+        "id": 3,
+        "titulo": "Toto Birra",
+        "precioReal": 600,
+        "precioRebajado": 540,
+        "img": "toto-birra.jpg",
+        "dataId": "B3"
+    },
+    {
+        "id": 4,
+        "titulo": "Aquarius Pera",
+        "precioReal": 130,
+        "precioRebajado": 117,
+        "img": "aquarius-pera.jpg",
+        "dataId": "B4"
+    },
+    {
+        "id": 5,
+        "titulo": "Aquarius Pomelo",
+        "precioReal": 190,
+        "precioRebajado": 171,
+        "img": "aquarius-pomelo.jpg",
+        "dataId": "B5"
+    },
+    {
+        "id": 6,
+        "titulo": "Brahma",
+        "precioReal": 490,
+        "precioRebajado": 441,
+        "img": "brahma.jpg",
+        "dataId": "B6"
+    },
+    {
+        "id": 7,
+        "titulo": "Chandon 187",
+        "precioReal": 500,
+        "precioRebajado": 450,
+        "img": "chandon-187.jpg",
+        "dataId": "B7"
+    },
+    {
+        "id": 8,
+        "titulo": "Cerveza Budweiser",
+        "precioReal": 400,
+        "precioRebajado": 360,
+        "img": "budweiser-lata.jpg",
+        "dataId": "B8"
+    },
+    {
+        "id": 9,
+        "titulo": "Pura Frutta Manzana",
+        "precioReal": 180,
+        "precioRebajado": 162,
+        "img": "pura-frutta-manzana.jpg",
+        "dataId": "B9"
+    },
+    {
+        "id": 10,
+        "titulo": "Citric Naranja",
+        "precioReal": 180,
+        "precioRebajado": 162,
+        "img": "citric-naranja.jpg",
+        "dataId": "B10"
+    },
+    {
+        "id": 11,
+        "titulo": "Coca Cola",
+        "precioReal": 550,
+        "precioRebajado": 495,
+        "img": "coca-lata.jpg",
+        "dataId": "B11"
+    },
+    {
+        "id": 12,
+        "titulo": "Coca Cola Light",
+        "precioReal": 450,
+        "precioRebajado": 405,
+        "img": "coca-cola-light.jpg",
+        "dataId": "B12"
+    },
+    {
+        "id": 13,
+        "titulo": "Coca Cola Zero",
+        "precioReal": 500,
+        "precioRebajado": 450,
+        "img": "coca-cola-zero.jpg",
+        "dataId": "B13"
+    },
+    {
+        "id": 14,
+        "titulo": "Corona Porrón",
+        "precioReal": 700,
+        "precioRebajado": 630,
+        "img": "corona.jpg",
+        "dataId": "B14"
+    },
+    {
+        "id": 15,
+        "titulo": "Dante Robino",
+        "precioReal": 900,
+        "precioRebajado": 810,
+        "img": "dante-robino-cabernet.jpg",
+        "dataId": "B15"
+    },
+    {
+        "id": 16,
+        "titulo": "Fanta Naranja",
+        "precioReal": 450,
+        "precioRebajado": 405,
+        "img": "fanta-lata.jpg",
+        "dataId": "B16"
+    },
+    {
+        "id": 17,
+        "titulo": "Cerveza Imperial",
+        "precioReal": 650,
+        "precioRebajado": 585,
+        "img": "imperial.jpg",
+        "dataId": "B17"
+    },
+    {
+        "id": 18,
+        "titulo": "Jugo Las Brisas",
+        "precioReal": 800,
+        "precioRebajado": 720,
+        "img": "jugo-organico-las-brisas.jpg",
+        "dataId": "B18"
+    },
+    {
+        "id": 19,
+        "titulo": "Novecento Brut",
+        "precioReal": 600,
+        "precioRebajado": 540,
+        "img": "novecento-brut.jpg",
+        "dataId": "B19"
+    },
+    {
+        "id": 20,
+        "titulo": "Novecento Dulce",
+        "precioReal": 600,
+        "precioRebajado": 540,
+        "img": "novecento-champagne.jpg",
+        "dataId": "B20"
+    },
+    {
+        "id": 21,
+        "titulo": "Novecento Malbec",
+        "precioReal": 750,
+        "precioRebajado": 675,
+        "img": "novecento-malbec.jpg",
+        "dataId": "B21"
+    },
+    {
+        "id": 22,
+        "titulo": "Cerveza Patagonia",
+        "precioReal": 750,
+        "precioRebajado": 675,
+        "img": "patagonia.jpg",
+        "dataId": "B22"
+    },
+    {
+        "id": 23,
+        "titulo": "Cerveza Quilmes",
+        "precioReal": 400,
+        "precioRebajado": 360,
+        "img": "quilmes.jpg",
+        "dataId": "B23"
+    },
+    {
+        "id": 24,
+        "titulo": "Red Bull",
+        "precioReal": 800,
+        "precioRebajado": 720,
+        "img": "red-bull-lata.jpg",
+        "dataId": "B24"
+    },
+    {
+        "id": 25,
+        "titulo": "Speed",
+        "precioReal": 780,
+        "precioRebajado": 702,
+        "img": "speed-lata.jpg",
+        "dataId": "B25"
+    },
+    {
+        "id": 26,
+        "titulo": "Sprite",
+        "precioReal": 450,
+        "precioRebajado": 405,
+        "img": "sprite-lata.jpg",
+        "dataId": "B26"
+    },
+    {
+        "id": 27,
+        "titulo": "Sprite Zero",
+        "precioReal": 450,
+        "precioRebajado": 405,
+        "img": "sprite-zero.jpg",
+        "dataId": "B27"
+    },
+    {
+        "id": 28,
+        "titulo": "Stella Artois Negra",
+        "precioReal": 850,
+        "precioRebajado": 775,
+        "img": "stella-negra.jpg",
+        "dataId": "B28"
+    },
+    {
+        "id": 29,
+        "titulo": "Cerveza Stella Artois",
+        "precioReal": 750,
+        "precioRebajado": 675,
+        "img": "stella.jpg",
+        "dataId": "B29"
+    },
+    {
+        "id": 30,
+        "titulo": "Smirnoff Vodka",
+        "precioReal": 1050,
+        "precioRebajado": 895,
+        "img": "vodka.jpg",
+        "dataId": "B30"
+    },
+    {
+        "id": 31,
+        "titulo": "Andes Origen",
+        "precioReal": 400,
+        "precioRebajado": 360,
+        "img": "andes-origen.jpg",
+        "dataId": "B31"
+    }
+]
