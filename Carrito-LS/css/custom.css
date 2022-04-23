@@ -37,9 +37,10 @@ ul {
     list-style: none;
 }
 #banner {
-    background-image: url(../img/bannerbebidas.jpg);
-    height: 350px;
+    height: 300px;
     width: 100%;
+    background-image: url(../img/bannerbebidas.jpg);
+    background-position: center center;
     background-size: cover;
 }
 
